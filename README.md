@@ -1,5 +1,9 @@
-#RICARDO DE JESUS ALFARO MARTINEZ
+#FUNDAMENTOS BASES DE DATOS
+
 ##ITPA
-###CAÑADA HONDA, AGUASCALIENTES 
-###10 DE FEBRERO DEL 2002
-El objetivo de mi proyecto es hacer una base de datos de una tienda de abarrotes, para hacer mas comoda la busqueda e identidicacion de los productos.
+
+##RICARDO DE JESUS ALFARO MARTINEZ
+
+##10 DE FEBRERO 2002
+
+##EN ESTE PROYECTO SE ELABORARA UN BASE DE DATOS DE UNA TIENDA
